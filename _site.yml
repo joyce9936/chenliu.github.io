@@ -4,7 +4,7 @@ navbar:
   title: "My Website"
   left:
     - text: "About"
-      href: about.html
+      href: index.html
     - text: "Presentation"
       href: presentation.html
 output:
