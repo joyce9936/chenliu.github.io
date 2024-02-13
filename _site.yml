@@ -1,0 +1,12 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "My Website"
+  left:
+    - text: "About"
+      href: about.html
+    - text: "presentation"
+      href: presentation.html
+output:
+  html_document:
+    theme: cosmo

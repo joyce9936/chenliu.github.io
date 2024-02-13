@@ -1,0 +1,14 @@
+---
+title: "Presentations"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+</style>
+
+<div class="row" style="text-align: justify; font-size:15px;  text-justify: inter-word; padding-top: 20px;padding-left: 20px;padding-right: 20px">
+
+Chen Liu, Rachel Ryskin, Zenaida Aguirre-Muñoz. (2023). [Effect of context and proficiency on processing difficulty during L2 reading](pdfs/camp_poster_0109.pdf). At CAlifornia Meeting on Psycholinguistics (CAMP[6]).Stanford,CA
