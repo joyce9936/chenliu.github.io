@@ -25,10 +25,11 @@ library(icons)
 `cliu132@ucmerced.edu`
 
 [`r icon_style(academicons("cv"), scale = 2, fill = "#2c3e50")`](pdfs/CV_ChenLiu.pdf)
-
+[`r icon_style(fontawesome("github"), scale = 2, fill = "#2c3e50")`](https://github.com/joyce9936)
 </div>
 
 <div class="row" style="text-align: justify; text-justify: inter-word;  padding-top: 2px;padding-right: 20px;padding-left: 20px">
+
 
 ### Academic bio
 
