@@ -9,6 +9,8 @@ navbar:
       href: presentation.html
     - text: "Publication"
       href: publications.html
+    - text: "Publication"
+      href: publications.html
 output:
   html_document:
     theme: cosmo
